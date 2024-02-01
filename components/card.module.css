@@ -32,7 +32,7 @@
   line-height: 1.75rem /* 28px */;
   font-weight: 800;
   overflow: hidden;
-  width: 16rem /* 256px */;
+  /* width: 16rem 256px; */
 }
 
 .cardImageWrapper {
